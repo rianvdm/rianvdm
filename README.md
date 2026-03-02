@@ -10,7 +10,7 @@
 
 ### Projects actively maintained:
 
-* [rianvdm/tldl](https://github.com/rianvdm/tldl) - AI-powered podcast summaries from Apple Podcasts URLs
+* [tldl](https://github.com/rianvdm/tldl) - AI-powered podcast summaries from Apple Podcasts URLs
 * [listentomore](https://github.com/rianvdm/listentomore) - Music discovery web app and Discord bot
 * [lastfm-mcp](https://github.com/rianvdm/lastfm-mcp) - Last.fm MCP server
 * [discogs-mcp](https://github.com/rianvdm/discogs-mcp) - Discogs MCP server
