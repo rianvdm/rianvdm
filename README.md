@@ -1,6 +1,6 @@
 ## Hi 👋
 
-👨‍💻 My name is Rian and I live in Portland, OR with [my wife](https://proteacounselingpnw.com/) and two daughters. I am a Director of Product at [Cloudflare](https://cloudflare.com/) where I support the Data and Productivity Platform teams.
+👨‍💻 My name is Rian and I live in Portland, OR with [my wife](https://proteacounselingpnw.com/) and two daughters. I am a Sr. Director of Product at [Cloudflare](https://cloudflare.com/) where I support the Data and Productivity Platform teams.
 
 ✍️ I write a blog called [Elezea](https://elezea.com/blog) for product managers, technology leaders, and other curious minds. The site also hosts my portfolio and resumé.
 
