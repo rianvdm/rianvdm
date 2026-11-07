@@ -14,6 +14,7 @@
 * [listentomore](https://github.com/rianvdm/listentomore) - Music discovery web app and Discord bot
 * [lastfm-mcp](https://github.com/rianvdm/lastfm-mcp) - Last.fm MCP server
 * [discogs-mcp](https://github.com/rianvdm/discogs-mcp) - Discogs MCP server
+* [flanaverse](https://github.com/rianvdm/flanaverse) - Interactive map of Mike Flanagan's films, recurring actors, and easter eggs
 
 ### Projects that work but I'm not spending time on them right now:
 
