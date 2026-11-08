@@ -4,7 +4,7 @@
 
 ✍️ I write a blog called [Elezea](https://elezea.com/blog) for product managers, technology leaders, and other curious minds. The site also hosts my portfolio and resumé.
 
-☕️ Let's connect further on [LinkedIn](http://www.linkedin.com/in/rianvdm). You can also [send me an email](https://elezea.com/contact/).
+☕️ Let's connect further on [LinkedIn](http://www.linkedin.com/in/rianvdm) and [X](https://x.com/RianVDM). You can also [send me an email](https://elezea.com/contact/).
 
 👌 You look nice today.
 
